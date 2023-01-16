@@ -1,0 +1,18 @@
+{
+"creator_embedding_size": 32,
+"document_embedding_size": 15,
+"entropy_coeff": 0.0,
+"hidden_sizes": [
+32,
+32,
+32
+],
+"loss_denom_decay": 1.0,
+"lr": 0.0007,
+"model_path": "newTest20_10/15topics/0.5/ckpt_0.5_15topics/actor",
+"regularization_coeff": 1e-05,
+"slate_size": 3,
+"social_reward_coeff": 0.0,
+"user_embedding_size": 32,
+"weight_size": 16
+}

@@ -1,0 +1,15 @@
+{
+"creator_feature_size": null,
+"document_feature_size": 15,
+"hidden_sizes": [
+32,
+32,
+16
+],
+"input_reward": false,
+"lr": 0.0007,
+"model_path": "newTest20_10/15topics/0.5/ckpt_0.5_15topics/user",
+"regularization_coeff": null,
+"rnn_type": "LSTM",
+"user_feature_size": null
+}
